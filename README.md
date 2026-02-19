@@ -8,7 +8,7 @@ Fuente de Datos
 Los datos provienen del archivo TelecomX_Data.json, que contiene información detallada sobre los clientes, sus servicios telefónicos e de internet, y sus cuentas.
 
 
-Objetivos del Proyecto
+Objetivos del Proyecto:
 Identificar la tasa general de Churn en la base de clientes de TelecomX.
 Explorar la relación entre variables demográficas, contractuales, de servicio y de pago con el Churn.
 Generar insights accionables para la toma de decisiones estratégicas.
